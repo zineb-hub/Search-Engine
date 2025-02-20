@@ -17,12 +17,8 @@ It offers:
 ## 2. Team Members
 
 - **MEFTAH Zineb**  
-  _L2 Computer Science G2_  
-  **ID:** 2500231
-- **MEDJBER Syphax**  
-  _L2 Computer Science G2_  
-  **ID:** 2500230
-
+- **MEDJBER Syphax**
+- 
 ---
 
 ## 3. General Structure
